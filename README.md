@@ -1,2 +1,2 @@
-# wmteecgolf.github.io
-前端练手
+# wmjy.github.io
+静态页面练手
